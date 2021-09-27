@@ -6,8 +6,7 @@
 
 define i = Character("[name]")
 define s = Character("妹妹")
-define c = Character("同学")
-define w = Character("老婆")
+
 
 
 # 游戏在此开始。
